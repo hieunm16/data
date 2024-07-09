@@ -1,105 +1,249 @@
 [
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_11.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn7_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn7_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_12.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn1_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn1_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_13.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_14.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_15.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_16.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn21_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn21_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_17.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_18.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_19.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn4_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn4_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_1.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn3_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn3_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_2.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_3.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_4.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn18_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn18_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_5.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn3_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn3_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_6.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_A.png"
+   },
   {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_11.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_A.png"
-  },
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_11.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_12.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_13.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_14.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn20_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn20_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_15.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/warrior/warrior_7.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn21_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn21_A.png"
+   },
+      {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/warrior/warrior_8.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_A.png"
+   },
+      {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/warrior/warrior_9.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_A.png"
+   },
+      {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/warrior/warrior_10.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_A.png"
+   },
   {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_18.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn36_A.png"
-  },
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_9.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_10.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_11.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_12.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_13.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn37_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn37_A.png"
+   },
   {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_12.jpg",
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_5.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_6.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn27_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn27_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_7.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn24_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn24_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_7.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_8.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_9.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn13_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn13_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_10.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_11.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn32_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn32_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/car/car_11.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/car/car_12.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/car/car_13.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
+   },
+   {
+    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/cute/cute_10.jpg",
     "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/sport/sport_7.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn35_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn35_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_9.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_11.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn32_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn32_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_13.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn37_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn37_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_8.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_3.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn19_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_7.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_9.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn13_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn13_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/sport/sport_6.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_11.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/character/character_13.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/animal/animal_10.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_10.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_6.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn27_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn27_A.png"
+    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn4_B.png",
+    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn4_A.png"
   },
   {
     "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/cute/cute_11.jpg",
@@ -108,99 +252,27 @@
     "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn11_A.png"
   },
   {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_2.jpg",
+    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/cute/cute_12.jpg",
     "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn9_A.png"
+    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn29_B.png",
+    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn29_A.png"
   },
   {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_12.jpg",
+    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/cute/cute_13.jpg",
     "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn1_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn1_A.png"
+    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_B.png",
+    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn25_A.png"
   },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_6.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn28_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/warrior/warrior_9.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn10_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/love/love_12.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn6_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_7.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/anime/anime_13.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn2_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn2_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/cute/cute_9.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn11_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn11_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_8.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn26_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn26_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_5.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn12_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_4.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn30_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn30_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_5.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn26_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn26_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_4.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/aigen/aigen_1.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn14_A.png"
-  },
-  {
-    "backgroundUrl": "https://raw.githubusercontent.com/hieunm16/data/master/background/neon/neon_3.jpg",
-    "avatarUrl": "",
-    "iconAnswer": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn30_B.png",
-    "iconReject": "https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn30_A.png"
-  },
-  {
-      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/trending/trending_5.jpg",
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/sport/sport_6.jpg",
       "avatarUrl":"",
-      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn8_B.png",
-      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn8_A.png"
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn5_A.png"
+   },
+   {
+      "backgroundUrl":"https://raw.githubusercontent.com/hieunm16/data/master/background/sport/sport_7.jpg",
+      "avatarUrl":"",
+      "iconAnswer":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn35_B.png",
+      "iconReject":"https://raw.githubusercontent.com/hieunm16/data/master/button%20call/btn35_A.png"
    }
 ]
